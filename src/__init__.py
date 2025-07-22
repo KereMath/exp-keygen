@@ -8,9 +8,9 @@ __author__ = "Research Team"
 
 # Tüm modülleri import et
 from .config import ExperimentConfig
-from .generators import KeyGeneratorFactory
-from .testers import StatisticalTester
-from .utils import FileManager, Logger, ProgressTracker, Statistics, Validator, ReportGenerator
+from .generators_mt19937 import KeyGeneratorFactory
+from .testers_fixed import StatisticalTester
+from .utils_fixed import FileManager, Logger, ProgressTracker, Statistics, Validator, ReportGenerator
 
 __all__ = [
     'ExperimentConfig',
