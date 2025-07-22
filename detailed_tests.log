@@ -1,0 +1,48 @@
+2025-07-22 13:46:14,115 - INFO - ==================================================
+2025-07-22 13:46:14,115 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-22 13:46:14,115 - INFO - Tarih: 2025-07-22 13:46:14
+2025-07-22 13:46:14,115 - INFO - ==================================================
+2025-07-22 13:48:28,217 - INFO - ==================================================
+2025-07-22 13:48:28,217 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-22 13:48:28,217 - INFO - Tarih: 2025-07-22 13:48:28
+2025-07-22 13:48:28,217 - INFO - ==================================================
+2025-07-22 13:49:25,466 - INFO - random_aes_1024 threshold 0.01: Overall 390/1000 (39.0%)
+2025-07-22 13:50:22,101 - INFO - random_aes_1024 threshold 0.05: Overall 261/1000 (26.1%)
+2025-07-22 13:50:23,025 - INFO - random_aes_128 threshold 0.01: Overall 991/1000 (99.1%)
+2025-07-22 13:50:23,971 - INFO - random_aes_128 threshold 0.05: Overall 982/1000 (98.2%)
+2025-07-22 13:52:12,063 - INFO - ==================================================
+2025-07-22 13:52:12,063 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-22 13:52:12,063 - INFO - Tarih: 2025-07-22 13:52:12
+2025-07-22 13:52:12,063 - INFO - ==================================================
+2025-07-22 13:53:08,723 - INFO - random_aes_1024 threshold 0.01: Overall 390/1000 (39.0%)
+2025-07-22 13:54:05,824 - INFO - random_aes_1024 threshold 0.05: Overall 261/1000 (26.1%)
+2025-07-22 13:54:06,748 - INFO - random_aes_128 threshold 0.01: Overall 991/1000 (99.1%)
+2025-07-22 13:54:07,686 - INFO - random_aes_128 threshold 0.05: Overall 982/1000 (98.2%)
+2025-07-22 13:57:58,072 - INFO - random_aes_2048 threshold 0.01: Overall 164/1000 (16.4%)
+2025-07-22 14:01:44,483 - INFO - random_aes_2048 threshold 0.05: Overall 109/1000 (10.9%)
+2025-07-22 14:01:47,859 - INFO - random_aes_256 threshold 0.01: Overall 939/1000 (93.9%)
+2025-07-22 14:01:51,224 - INFO - random_aes_256 threshold 0.05: Overall 838/1000 (83.8%)
+2025-07-22 14:16:59,370 - INFO - random_aes_4096 threshold 0.01: Overall 45/1000 (4.5%)
+2025-07-22 14:32:05,767 - INFO - random_aes_4096 threshold 0.05: Overall 31/1000 (3.1%)
+2025-07-22 14:32:19,712 - INFO - random_aes_512 threshold 0.01: Overall 684/1000 (68.4%)
+2025-07-22 14:32:33,488 - INFO - random_aes_512 threshold 0.05: Overall 547/1000 (54.7%)
+2025-07-22 14:33:32,779 - INFO - random_alternating_1024 threshold 0.01: Overall 985/1000 (98.5%)
+2025-07-22 14:34:38,025 - INFO - random_alternating_1024 threshold 0.05: Overall 974/1000 (97.4%)
+2025-07-22 14:34:38,945 - INFO - random_alternating_128 threshold 0.01: Overall 991/1000 (99.1%)
+2025-07-22 14:34:39,870 - INFO - random_alternating_128 threshold 0.05: Overall 980/1000 (98.0%)
+2025-07-22 14:38:20,801 - INFO - random_alternating_2048 threshold 0.01: Overall 974/1000 (97.4%)
+2025-07-22 14:42:02,160 - INFO - random_alternating_2048 threshold 0.05: Overall 962/1000 (96.2%)
+2025-07-22 14:42:05,538 - INFO - random_alternating_256 threshold 0.01: Overall 993/1000 (99.3%)
+2025-07-22 14:42:08,874 - INFO - random_alternating_256 threshold 0.05: Overall 971/1000 (97.1%)
+2025-07-22 14:56:59,420 - INFO - random_alternating_4096 threshold 0.01: Overall 981/1000 (98.1%)
+2025-07-22 15:11:52,108 - INFO - random_alternating_4096 threshold 0.05: Overall 971/1000 (97.1%)
+2025-07-22 15:12:06,042 - INFO - random_alternating_512 threshold 0.01: Overall 985/1000 (98.5%)
+2025-07-22 15:12:19,820 - INFO - random_alternating_512 threshold 0.05: Overall 972/1000 (97.2%)
+2025-07-22 15:13:16,341 - INFO - random_shrinking_1024 threshold 0.01: Overall 993/1000 (99.3%)
+2025-07-22 15:14:12,747 - INFO - random_shrinking_1024 threshold 0.05: Overall 969/1000 (96.9%)
+2025-07-22 15:14:13,670 - INFO - random_shrinking_128 threshold 0.01: Overall 996/1000 (99.6%)
+2025-07-22 15:14:14,610 - INFO - random_shrinking_128 threshold 0.05: Overall 983/1000 (98.3%)
+2025-07-22 15:17:59,863 - INFO - random_shrinking_2048 threshold 0.01: Overall 997/1000 (99.7%)
+2025-07-22 15:21:44,851 - INFO - random_shrinking_2048 threshold 0.05: Overall 958/1000 (95.8%)
+2025-07-22 15:21:48,358 - INFO - random_shrinking_256 threshold 0.01: Overall 994/1000 (99.4%)
+2025-07-22 15:21:51,715 - INFO - random_shrinking_256 threshold 0.05: Overall 978/1000 (97.8%)

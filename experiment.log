@@ -1,0 +1,80 @@
+2025-07-22 13:05:54,786 - INFO - ==================================================
+2025-07-22 13:05:54,786 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-22 13:05:54,786 - INFO - Tarih: 2025-07-22 13:05:54
+2025-07-22 13:05:54,786 - INFO - ==================================================
+2025-07-22 13:05:54,787 - INFO - Klasör yapısı hazırlandı
+2025-07-22 13:05:54,787 - INFO - === AŞAMA 1: ANAHTAR ÜRETİMİ BAŞLADI ===
+2025-07-22 13:05:54,787 - INFO - [1/36] Üretiliyor: sha256_shrinking_128
+2025-07-22 13:05:55,199 - INFO - sha256_shrinking_128: 1000 anahtar üretildi (0.41s)
+2025-07-22 13:05:55,199 - INFO - [2/36] Üretiliyor: sha256_shrinking_256
+2025-07-22 13:05:55,981 - INFO - sha256_shrinking_256: 1000 anahtar üretildi (0.77s)
+2025-07-22 13:05:55,981 - INFO - [3/36] Üretiliyor: sha256_shrinking_512
+2025-07-22 13:05:57,516 - INFO - sha256_shrinking_512: 1000 anahtar üretildi (1.52s)
+2025-07-22 13:05:57,517 - INFO - [4/36] Üretiliyor: sha256_shrinking_1024
+2025-07-22 13:06:00,558 - INFO - sha256_shrinking_1024: 1000 anahtar üretildi (3.01s)
+2025-07-22 13:06:00,558 - INFO - [5/36] Üretiliyor: sha256_shrinking_2048
+2025-07-22 13:06:06,615 - INFO - sha256_shrinking_2048: 1000 anahtar üretildi (5.99s)
+2025-07-22 13:06:06,616 - INFO - [6/36] Üretiliyor: sha256_shrinking_4096
+2025-07-22 13:06:18,622 - INFO - sha256_shrinking_4096: 1000 anahtar üretildi (11.87s)
+2025-07-22 13:06:18,622 - INFO - [7/36] Üretiliyor: sha256_alternating_128
+2025-07-22 13:06:18,812 - INFO - sha256_alternating_128: 1000 anahtar üretildi (0.18s)
+2025-07-22 13:06:18,812 - INFO - [8/36] Üretiliyor: sha256_alternating_256
+2025-07-22 13:06:19,150 - INFO - sha256_alternating_256: 1000 anahtar üretildi (0.33s)
+2025-07-22 13:06:19,151 - INFO - [9/36] Üretiliyor: sha256_alternating_512
+2025-07-22 13:06:19,791 - INFO - sha256_alternating_512: 1000 anahtar üretildi (0.62s)
+2025-07-22 13:06:19,791 - INFO - [10/36] Üretiliyor: sha256_alternating_1024
+2025-07-22 13:06:21,038 - INFO - sha256_alternating_1024: 1000 anahtar üretildi (1.21s)
+2025-07-22 13:06:21,038 - INFO - [11/36] Üretiliyor: sha256_alternating_2048
+2025-07-22 13:06:23,505 - INFO - sha256_alternating_2048: 1000 anahtar üretildi (2.40s)
+2025-07-22 13:06:23,505 - INFO - [12/36] Üretiliyor: sha256_alternating_4096
+2025-07-22 13:06:28,398 - INFO - sha256_alternating_4096: 1000 anahtar üretildi (4.76s)
+2025-07-22 13:06:28,398 - INFO - [13/36] Üretiliyor: sha256_aes_128
+2025-07-22 13:06:28,450 - INFO - sha256_aes_128: 1000 anahtar üretildi (0.05s)
+2025-07-22 13:06:28,450 - INFO - [14/36] Üretiliyor: sha256_aes_256
+2025-07-22 13:06:28,516 - INFO - sha256_aes_256: 1000 anahtar üretildi (0.06s)
+2025-07-22 13:06:28,516 - INFO - [15/36] Üretiliyor: sha256_aes_512
+2025-07-22 13:06:28,617 - INFO - sha256_aes_512: 1000 anahtar üretildi (0.08s)
+2025-07-22 13:06:28,617 - INFO - [16/36] Üretiliyor: sha256_aes_1024
+2025-07-22 13:06:28,790 - INFO - sha256_aes_1024: 1000 anahtar üretildi (0.14s)
+2025-07-22 13:06:28,790 - INFO - [17/36] Üretiliyor: sha256_aes_2048
+2025-07-22 13:06:29,103 - INFO - sha256_aes_2048: 1000 anahtar üretildi (0.25s)
+2025-07-22 13:06:29,103 - INFO - [18/36] Üretiliyor: sha256_aes_4096
+2025-07-22 13:06:29,703 - INFO - sha256_aes_4096: 1000 anahtar üretildi (0.47s)
+2025-07-22 13:06:29,703 - INFO - [19/36] Üretiliyor: random_shrinking_128
+2025-07-22 13:06:30,150 - INFO - random_shrinking_128: 1000 anahtar üretildi (0.44s)
+2025-07-22 13:06:30,150 - INFO - [20/36] Üretiliyor: random_shrinking_256
+2025-07-22 13:06:30,960 - INFO - random_shrinking_256: 1000 anahtar üretildi (0.80s)
+2025-07-22 13:06:30,961 - INFO - [21/36] Üretiliyor: random_shrinking_512
+2025-07-22 13:06:32,516 - INFO - random_shrinking_512: 1000 anahtar üretildi (1.54s)
+2025-07-22 13:06:32,516 - INFO - [22/36] Üretiliyor: random_shrinking_1024
+2025-07-22 13:06:35,585 - INFO - random_shrinking_1024: 1000 anahtar üretildi (3.04s)
+2025-07-22 13:06:35,586 - INFO - [23/36] Üretiliyor: random_shrinking_2048
+2025-07-22 13:06:41,620 - INFO - random_shrinking_2048: 1000 anahtar üretildi (5.97s)
+2025-07-22 13:06:41,620 - INFO - [24/36] Üretiliyor: random_shrinking_4096
+2025-07-22 13:06:53,624 - INFO - random_shrinking_4096: 1000 anahtar üretildi (11.87s)
+2025-07-22 13:06:53,624 - INFO - [25/36] Üretiliyor: random_alternating_128
+2025-07-22 13:06:53,843 - INFO - random_alternating_128: 1000 anahtar üretildi (0.21s)
+2025-07-22 13:06:53,843 - INFO - [26/36] Üretiliyor: random_alternating_256
+2025-07-22 13:06:54,210 - INFO - random_alternating_256: 1000 anahtar üretildi (0.36s)
+2025-07-22 13:06:54,210 - INFO - [27/36] Üretiliyor: random_alternating_512
+2025-07-22 13:06:54,878 - INFO - random_alternating_512: 1000 anahtar üretildi (0.65s)
+2025-07-22 13:06:54,878 - INFO - [28/36] Üretiliyor: random_alternating_1024
+2025-07-22 13:06:56,160 - INFO - random_alternating_1024: 1000 anahtar üretildi (1.25s)
+2025-07-22 13:06:56,160 - INFO - [29/36] Üretiliyor: random_alternating_2048
+2025-07-22 13:06:58,658 - INFO - random_alternating_2048: 1000 anahtar üretildi (2.43s)
+2025-07-22 13:06:58,658 - INFO - [30/36] Üretiliyor: random_alternating_4096
+2025-07-22 13:07:03,587 - INFO - random_alternating_4096: 1000 anahtar üretildi (4.80s)
+2025-07-22 13:07:03,587 - INFO - [31/36] Üretiliyor: random_aes_128
+2025-07-22 13:07:03,670 - INFO - random_aes_128: 1000 anahtar üretildi (0.08s)
+2025-07-22 13:07:03,670 - INFO - [32/36] Üretiliyor: random_aes_256
+2025-07-22 13:07:03,768 - INFO - random_aes_256: 1000 anahtar üretildi (0.09s)
+2025-07-22 13:07:03,768 - INFO - [33/36] Üretiliyor: random_aes_512
+2025-07-22 13:07:03,901 - INFO - random_aes_512: 1000 anahtar üretildi (0.11s)
+2025-07-22 13:07:03,902 - INFO - [34/36] Üretiliyor: random_aes_1024
+2025-07-22 13:07:04,104 - INFO - random_aes_1024: 1000 anahtar üretildi (0.17s)
+2025-07-22 13:07:04,105 - INFO - [35/36] Üretiliyor: random_aes_2048
+2025-07-22 13:07:04,449 - INFO - random_aes_2048: 1000 anahtar üretildi (0.28s)
+2025-07-22 13:07:04,449 - INFO - [36/36] Üretiliyor: random_aes_4096
+2025-07-22 13:07:05,086 - INFO - random_aes_4096: 1000 anahtar üretildi (0.51s)
+2025-07-22 13:07:05,091 - INFO - === AŞAMA 2: İSTATİSTİKSEL TESTLER BAŞLADI ===
+2025-07-22 13:07:05,186 - ERROR - Deney hatası: maximum recursion depth exceeded in comparison
