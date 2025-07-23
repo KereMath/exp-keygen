@@ -18,150 +18,150 @@ class StatisticalTester:
     def _initialize_thresholds(self) -> Dict:
         """C++ kodundaki eşik değerlerini tanımla"""
         return {
-            128: {
-                0.01: {
-                    'frequency': (45, 83),
-                    'run_count': (46, 86),
-                    'run_L1': (13, 60),
-                    'template_4_1': (0, 25),
-                    'template_4_2': (0, 19),
-                    'template_4_3': (0, 16),
-                    'template_4_4': (0, 15),
-                    'linear_complexity': (59, 67),
-                    'blind_spot_complexity': (59, 70)
-                },
-                0.05: {
-                    'frequency': (48, 80),
-                    'run_count': (48, 80),
-                    'run_L1': (16, 51),
-                    'template_4_1': (0, 22),
-                    'template_4_2': (0, 17),
-                    'template_4_3': (0, 15),
-                    'template_4_4': (0, 14),
-                    'linear_complexity': (60, 68),
-                    'blind_spot_complexity': (60, 68)
-                }
-            },
-            256: {
-                0.01: {
-                    'frequency': (100, 153),
-                    'run_count': (102, 155),
-                    'run_L1': (37, 96),
-                    'template_4_1': (0, 38),
-                    'template_4_2': (0, 30),
-                    'template_4_3': (0, 28),
-                    'template_4_4': (0, 26),
-                    'linear_complexity': (123, 134),
-                    'blind_spot_complexity': (123, 134)
-                },
-                0.05: {
-                    'frequency': (105, 151),
-                    'run_count': (106, 151),
-                    'run_L1': (41, 91),
-                    'template_4_1': (0, 34),
-                    'template_4_2': (0, 27),
-                    'template_4_3': (0, 26),
-                    'template_4_4': (0, 24),
-                    'linear_complexity': (123, 132),
-                    'blind_spot_complexity': (123, 132)
-                }
-            },
-            512: {
-                0.01: {
-                    'frequency': (218, 294),
-                    'run_count': (219, 296),
-                    'run_L1': (89, 175),
-                    'template_4_1': (0, 63),
-                    'template_4_2': (0, 51),
-                    'template_4_3': (0, 48),
-                    'template_4_4': (0, 45),
-                    'linear_complexity': (251, 262),
-                    'blind_spot_complexity': (251, 262)
-                },
-                0.05: {
-                    'frequency': (224, 288),
-                    'run_count': (224, 288),
-                    'run_L1': (94, 165),
-                    'template_4_1': (0, 56),
-                    'template_4_2': (0, 48),
-                    'template_4_3': (0, 46),
-                    'template_4_4': (0, 43),
-                    'linear_complexity': (251, 262),
-                    'blind_spot_complexity': (251, 262)
-                }
-            },
-            1024: {
-                0.01: {
-                    'frequency': (459, 566),
-                    'run_count': (460, 566),
-                    'run_L1': (200, 319),
-                    'template_4_1': (0, 105),
-                    'template_4_2': (0, 91),
-                    'template_4_3': (0, 87),
-                    'template_4_4': (0, 82),
-                    'linear_complexity': (507, 518),
-                    'blind_spot_complexity': (507, 518)
-                },
-                0.05: {
-                    'frequency': (468, 557),
-                    'run_count': (468, 557),
-                    'run_L1': (208, 307),
-                    'template_4_1': (0, 97),
-                    'template_4_2': (0, 86),
-                    'template_4_3': (0, 83),
-                    'template_4_4': (0, 79),
-                    'linear_complexity': (508, 517),
-                    'blind_spot_complexity': (508, 517)
-                }
-            },
-            2048: {
-                0.01: {
-                    'frequency': (950, 1100),
-                    'run_count': (950, 1098),
-                    'run_L1': (431, 599),
-                    'template_4_1': (0, 185),
-                    'template_4_2': (0, 165),
-                    'template_4_3': (0, 160),
-                    'template_4_4': (0, 154),
-                    'linear_complexity': (1019, 1030),
-                    'blind_spot_complexity': (1019, 1030)
-                },
-                0.05: {
-                    'frequency': (961, 1087),
-                    'run_count': (961, 1088),
-                    'run_L1': (443, 584),
-                    'template_4_1': (0, 174),
-                    'template_4_2': (0, 158),
-                    'template_4_3': (0, 154),
-                    'template_4_4': (0, 149),
-                    'linear_complexity': (1020, 1029),
-                    'blind_spot_complexity': (1020, 1029)
-                }
-            },
-            4096: {
-                0.01: {
-                    'frequency': (1943, 2154),
-                    'run_count': (1943, 2150),
-                    'run_L1': (909, 1143),
-                    'template_4_1': (0, 334),
-                    'template_4_2': (0, 308),
-                    'template_4_3': (0, 301),
-                    'template_4_4': (0, 293),
-                    'linear_complexity': (2043, 2054),
-                    'blind_spot_complexity': (2043, 2054)
-                },
-                0.05: {
-                    'frequency': (1959, 2137),
-                    'run_count': (1959, 2137),
-                    'run_L1': (927, 1123),
-                    'template_4_1': (0, 320),
-                    'template_4_2': (0, 298),
-                    'template_4_3': (0, 293),
-                    'template_4_4': (0, 286),
-                    'linear_complexity': (2044, 2053),
-                    'blind_spot_complexity': (2044, 2053)
-                }
-            }
+                128: {
+        0.01: {
+            'frequency': (46, 82),
+            'run_count': (47, 85),
+            'run_L1': (14, 59),
+            'template_4_1': (0, 24),
+            'template_4_2': (0, 18),
+            'template_4_3': (0, 15),
+            'template_4_4': (0, 14),
+            'linear_complexity': (60, 66),
+            'blind_spot_complexity': (60, 69)
+        },
+        0.05: {
+            'frequency': (49, 79),
+            'run_count': (49, 79),
+            'run_L1': (17, 50),
+            'template_4_1': (0, 21),
+            'template_4_2': (0, 16),
+            'template_4_3': (0, 14),
+            'template_4_4': (0, 13),
+            'linear_complexity': (61, 67),
+            'blind_spot_complexity': (61, 67)
+        }
+    },
+    256: {
+        0.01: {
+            'frequency': (101, 152),
+            'run_count': (103, 154),
+            'run_L1': (38, 95),
+            'template_4_1': (0, 37),
+            'template_4_2': (0, 29),
+            'template_4_3': (0, 27),
+            'template_4_4': (0, 25),
+            'linear_complexity': (124, 133),
+            'blind_spot_complexity': (124, 133)
+        },
+        0.05: {
+            'frequency': (106, 150),
+            'run_count': (107, 150),
+            'run_L1': (42, 90),
+            'template_4_1': (0, 33),
+            'template_4_2': (0, 26),
+            'template_4_3': (0, 25),
+            'template_4_4': (0, 23),
+            'linear_complexity': (124, 131),
+            'blind_spot_complexity': (124, 131)
+        }
+    },
+    512: {
+        0.01: {
+            'frequency': (219, 293),
+            'run_count': (220, 295),
+            'run_L1': (90, 174),
+            'template_4_1': (0, 62),
+            'template_4_2': (0, 50),
+            'template_4_3': (0, 47),
+            'template_4_4': (0, 44),
+            'linear_complexity': (252, 261),
+            'blind_spot_complexity': (252, 261)
+        },
+        0.05: {
+            'frequency': (225, 287),
+            'run_count': (225, 287),
+            'run_L1': (95, 164),
+            'template_4_1': (0, 55),
+            'template_4_2': (0, 47),
+            'template_4_3': (0, 45),
+            'template_4_4': (0, 42),
+            'linear_complexity': (252, 261),
+            'blind_spot_complexity': (252, 261)
+        }
+    },
+    1024: {
+        0.01: {
+            'frequency': (460, 565),
+            'run_count': (461, 565),
+            'run_L1': (201, 318),
+            'template_4_1': (0, 104),
+            'template_4_2': (0, 90),
+            'template_4_3': (0, 86),
+            'template_4_4': (0, 81),
+            'linear_complexity': (508, 517),
+            'blind_spot_complexity': (508, 517)
+        },
+        0.05: {
+            'frequency': (469, 556),
+            'run_count': (469, 556),
+            'run_L1': (209, 306),
+            'template_4_1': (0, 96),
+            'template_4_2': (0, 85),
+            'template_4_3': (0, 82),
+            'template_4_4': (0, 78),
+            'linear_complexity': (509, 516),
+            'blind_spot_complexity': (509, 516)
+        }
+    },
+    2048: {
+        0.01: {
+            'frequency': (951, 1099),
+            'run_count': (951, 1097),
+            'run_L1': (432, 598),
+            'template_4_1': (0, 184),
+            'template_4_2': (0, 164),
+            'template_4_3': (0, 159),
+            'template_4_4': (0, 153),
+            'linear_complexity': (1020, 1029),
+            'blind_spot_complexity': (1020, 1029)
+        },
+        0.05: {
+            'frequency': (962, 1086),
+            'run_count': (962, 1087),
+            'run_L1': (444, 583),
+            'template_4_1': (0, 173),
+            'template_4_2': (0, 157),
+            'template_4_3': (0, 153),
+            'template_4_4': (0, 148),
+            'linear_complexity': (1021, 1028),
+            'blind_spot_complexity': (1021, 1028)
+        }
+    },
+    4096: {
+        0.01: {
+            'frequency': (1944, 2153),
+            'run_count': (1944, 2149),
+            'run_L1': (910, 1142),
+            'template_4_1': (0, 333),
+            'template_4_2': (0, 307),
+            'template_4_3': (0, 300),
+            'template_4_4': (0, 292),
+            'linear_complexity': (2044, 2053),
+            'blind_spot_complexity': (2044, 2053)
+        },
+        0.05: {
+            'frequency': (1960, 2136),
+            'run_count': (1960, 2136),
+            'run_L1': (928, 1122),
+            'template_4_1': (0, 319),
+            'template_4_2': (0, 297),
+            'template_4_3': (0, 292),
+            'template_4_4': (0, 285),
+            'linear_complexity': (2045, 2052),
+            'blind_spot_complexity': (2045, 2052)
+        }
+    }
         }
     
     def run_all_tests(self, key: List[bool], key_length: int) -> Dict[str, int]:

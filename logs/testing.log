@@ -78,3 +78,83 @@
 2025-07-22 21:52:03,835 - INFO - sha256_shrinking_512 threshold 0.01: Overall 994/1000 (99.4%)
 2025-07-22 21:52:17,972 - INFO - sha256_shrinking_512 threshold 0.05: Overall 974/1000 (97.4%)
 2025-07-22 21:52:17,985 - INFO - Test aşaması tamamlandı! Toplam süre: 241.4 dakika
+2025-07-23 17:42:03,057 - INFO - ==================================================
+2025-07-23 17:42:03,057 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-23 17:42:03,057 - INFO - Tarih: 2025-07-23 17:42:03
+2025-07-23 17:42:03,057 - INFO - Log dosyası: logs/testing.log
+2025-07-23 17:42:03,058 - INFO - ==================================================
+2025-07-23 17:42:03,058 - INFO - Test aşaması klasör yapısı hazırlandı
+2025-07-23 17:42:03,058 - INFO - === İSTATİSTİKSEL TESTLER BAŞLADI ===
+2025-07-23 17:42:03,980 - INFO - random_aes_128 threshold 0.01: Overall 993/1000 (99.3%)
+2025-07-23 17:42:04,892 - INFO - random_aes_128 threshold 0.05: Overall 984/1000 (98.4%)
+2025-07-23 17:42:04,908 - INFO - Test aşaması tamamlandı! Toplam süre: 0.0 dakika
+2025-07-23 17:47:27,034 - INFO - ==================================================
+2025-07-23 17:47:27,034 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-23 17:47:27,034 - INFO - Tarih: 2025-07-23 17:47:27
+2025-07-23 17:47:27,034 - INFO - Log dosyası: logs/testing.log
+2025-07-23 17:47:27,034 - INFO - ==================================================
+2025-07-23 17:47:27,035 - INFO - Test aşaması klasör yapısı hazırlandı
+2025-07-23 17:47:27,035 - INFO - === İSTATİSTİKSEL TESTLER BAŞLADI ===
+2025-07-23 17:47:27,937 - INFO - random_aes_128 threshold 0.01: Overall 993/1000 (99.3%)
+2025-07-23 17:47:28,905 - INFO - random_aes_128 threshold 0.05: Overall 984/1000 (98.4%)
+2025-07-23 17:47:28,915 - INFO - Test aşaması tamamlandı! Toplam süre: 0.0 dakika
+2025-07-23 17:49:05,009 - INFO - ==================================================
+2025-07-23 17:49:05,009 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-23 17:49:05,009 - INFO - Tarih: 2025-07-23 17:49:05
+2025-07-23 17:49:05,009 - INFO - Log dosyası: logs/testing.log
+2025-07-23 17:49:05,009 - INFO - ==================================================
+2025-07-23 17:49:05,010 - INFO - Test aşaması klasör yapısı hazırlandı
+2025-07-23 17:49:05,010 - INFO - === İSTATİSTİKSEL TESTLER BAŞLADI ===
+2025-07-23 17:49:05,918 - INFO - random_aes_128 threshold 0.01: Overall 971/1000 (97.1%)
+2025-07-23 17:49:06,829 - INFO - random_aes_128 threshold 0.05: Overall 984/1000 (98.4%)
+2025-07-23 17:49:06,839 - INFO - Test aşaması tamamlandı! Toplam süre: 0.0 dakika
+2025-07-23 17:52:51,148 - INFO - ==================================================
+2025-07-23 17:52:51,148 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-23 17:52:51,149 - INFO - Tarih: 2025-07-23 17:52:51
+2025-07-23 17:52:51,149 - INFO - Log dosyası: logs/testing.log
+2025-07-23 17:52:51,149 - INFO - ==================================================
+2025-07-23 17:52:51,149 - INFO - Test aşaması klasör yapısı hazırlandı
+2025-07-23 17:52:51,149 - INFO - === İSTATİSTİKSEL TESTLER BAŞLADI ===
+2025-07-23 17:52:52,074 - INFO - random_aes_128 threshold 0.01: Overall 971/1000 (97.1%)
+2025-07-23 17:52:53,006 - INFO - random_aes_128 threshold 0.05: Overall 953/1000 (95.3%)
+2025-07-23 17:52:53,015 - INFO - Test aşaması tamamlandı! Toplam süre: 0.0 dakika
+2025-07-23 17:56:33,191 - INFO - ==================================================
+2025-07-23 17:56:33,191 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-23 17:56:33,191 - INFO - Tarih: 2025-07-23 17:56:33
+2025-07-23 17:56:33,191 - INFO - Log dosyası: logs/testing.log
+2025-07-23 17:56:33,191 - INFO - ==================================================
+2025-07-23 17:56:33,192 - INFO - Test aşaması klasör yapısı hazırlandı
+2025-07-23 17:56:33,192 - INFO - === İSTATİSTİKSEL TESTLER BAŞLADI ===
+2025-07-23 17:56:34,087 - INFO - random_aes_128 threshold 0.01: Overall 980/1000 (98.0%)
+2025-07-23 17:56:35,103 - INFO - random_aes_128 threshold 0.05: Overall 984/1000 (98.4%)
+2025-07-23 17:56:35,113 - INFO - Test aşaması tamamlandı! Toplam süre: 0.0 dakika
+2025-07-23 18:07:36,726 - INFO - ==================================================
+2025-07-23 18:07:36,726 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-23 18:07:36,726 - INFO - Tarih: 2025-07-23 18:07:36
+2025-07-23 18:07:36,726 - INFO - Log dosyası: logs/testing.log
+2025-07-23 18:07:36,726 - INFO - ==================================================
+2025-07-23 18:07:36,727 - INFO - Test aşaması klasör yapısı hazırlandı
+2025-07-23 18:07:36,727 - INFO - === İSTATİSTİKSEL TESTLER BAŞLADI ===
+2025-07-23 18:07:37,629 - INFO - random_aes_128 threshold 0.01: Overall 975/1000 (97.5%)
+2025-07-23 18:07:38,533 - INFO - random_aes_128 threshold 0.05: Overall 984/1000 (98.4%)
+2025-07-23 18:07:38,543 - INFO - Test aşaması tamamlandı! Toplam süre: 0.0 dakika
+2025-07-23 18:09:52,905 - INFO - ==================================================
+2025-07-23 18:09:52,905 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-23 18:09:52,905 - INFO - Tarih: 2025-07-23 18:09:52
+2025-07-23 18:09:52,905 - INFO - Log dosyası: logs/testing.log
+2025-07-23 18:09:52,905 - INFO - ==================================================
+2025-07-23 18:09:52,906 - INFO - Test aşaması klasör yapısı hazırlandı
+2025-07-23 18:09:52,906 - INFO - === İSTATİSTİKSEL TESTLER BAŞLADI ===
+2025-07-23 18:09:53,796 - INFO - random_aes_128 threshold 0.01: Overall 975/1000 (97.5%)
+2025-07-23 18:09:54,689 - INFO - random_aes_128 threshold 0.05: Overall 957/1000 (95.7%)
+2025-07-23 18:09:54,698 - INFO - Test aşaması tamamlandı! Toplam süre: 0.0 dakika
+2025-07-23 18:24:24,964 - INFO - ==================================================
+2025-07-23 18:24:24,965 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-23 18:24:24,965 - INFO - Tarih: 2025-07-23 18:24:24
+2025-07-23 18:24:24,965 - INFO - Log dosyası: logs/testing.log
+2025-07-23 18:24:24,965 - INFO - ==================================================
+2025-07-23 18:24:24,965 - INFO - Test aşaması klasör yapısı hazırlandı
+2025-07-23 18:24:24,966 - INFO - === İSTATİSTİKSEL TESTLER BAŞLADI ===
+2025-07-23 18:24:25,875 - INFO - random_aes_128 threshold 0.01: Overall 975/1000 (97.5%)
+2025-07-23 18:24:26,776 - INFO - random_aes_128 threshold 0.05: Overall 957/1000 (95.7%)
+2025-07-23 18:24:26,785 - INFO - Test aşaması tamamlandı! Toplam süre: 0.0 dakika
