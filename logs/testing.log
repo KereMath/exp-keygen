@@ -158,3 +158,47 @@
 2025-07-23 18:24:25,875 - INFO - random_aes_128 threshold 0.01: Overall 975/1000 (97.5%)
 2025-07-23 18:24:26,776 - INFO - random_aes_128 threshold 0.05: Overall 957/1000 (95.7%)
 2025-07-23 18:24:26,785 - INFO - Test aşaması tamamlandı! Toplam süre: 0.0 dakika
+2025-07-23 18:25:44,216 - INFO - ==================================================
+2025-07-23 18:25:44,217 - INFO - ANAHTAR ÜRETİCİ DENEYİ BAŞLADI
+2025-07-23 18:25:44,217 - INFO - Tarih: 2025-07-23 18:25:44
+2025-07-23 18:25:44,217 - INFO - Log dosyası: logs/testing.log
+2025-07-23 18:25:44,217 - INFO - ==================================================
+2025-07-23 18:25:44,218 - INFO - Test aşaması klasör yapısı hazırlandı
+2025-07-23 18:25:44,218 - INFO - === İSTATİSTİKSEL TESTLER BAŞLADI ===
+2025-07-23 18:26:42,916 - INFO - random_aes_1024 threshold 0.01: Overall 990/1000 (99.0%)
+2025-07-23 18:27:41,424 - INFO - random_aes_1024 threshold 0.05: Overall 960/1000 (96.0%)
+2025-07-23 18:27:42,422 - INFO - random_aes_128 threshold 0.01: Overall 975/1000 (97.5%)
+2025-07-23 18:27:43,418 - INFO - random_aes_128 threshold 0.05: Overall 957/1000 (95.7%)
+2025-07-23 18:31:36,064 - INFO - random_aes_2048 threshold 0.01: Overall 998/1000 (99.8%)
+2025-07-23 18:35:28,420 - INFO - random_aes_2048 threshold 0.05: Overall 962/1000 (96.2%)
+2025-07-23 18:35:32,138 - INFO - random_aes_256 threshold 0.01: Overall 992/1000 (99.2%)
+2025-07-23 18:35:35,807 - INFO - random_aes_256 threshold 0.05: Overall 959/1000 (95.9%)
+2025-07-23 18:51:26,726 - INFO - random_aes_4096 threshold 0.01: Overall 989/1000 (98.9%)
+2025-07-23 19:07:10,535 - INFO - random_aes_4096 threshold 0.05: Overall 954/1000 (95.4%)
+2025-07-23 19:07:25,532 - INFO - random_aes_512 threshold 0.01: Overall 985/1000 (98.5%)
+2025-07-23 19:07:40,481 - INFO - random_aes_512 threshold 0.05: Overall 963/1000 (96.3%)
+2025-07-23 19:08:39,848 - INFO - random_alternating_1024 threshold 0.01: Overall 988/1000 (98.8%)
+2025-07-23 19:09:39,287 - INFO - random_alternating_1024 threshold 0.05: Overall 956/1000 (95.6%)
+2025-07-23 19:09:40,340 - INFO - random_alternating_128 threshold 0.01: Overall 969/1000 (96.9%)
+2025-07-23 19:09:41,390 - INFO - random_alternating_128 threshold 0.05: Overall 951/1000 (95.1%)
+2025-07-23 19:13:40,641 - INFO - random_alternating_2048 threshold 0.01: Overall 996/1000 (99.6%)
+2025-07-23 19:17:40,294 - INFO - random_alternating_2048 threshold 0.05: Overall 964/1000 (96.4%)
+2025-07-23 19:17:44,135 - INFO - random_alternating_256 threshold 0.01: Overall 990/1000 (99.0%)
+2025-07-23 19:17:47,951 - INFO - random_alternating_256 threshold 0.05: Overall 960/1000 (96.0%)
+2025-07-23 19:33:52,389 - INFO - random_alternating_4096 threshold 0.01: Overall 985/1000 (98.5%)
+2025-07-23 19:49:46,343 - INFO - random_alternating_4096 threshold 0.05: Overall 956/1000 (95.6%)
+2025-07-23 19:50:01,555 - INFO - random_alternating_512 threshold 0.01: Overall 993/1000 (99.3%)
+2025-07-23 19:50:16,423 - INFO - random_alternating_512 threshold 0.05: Overall 973/1000 (97.3%)
+2025-07-23 19:51:16,237 - INFO - random_shrinking_1024 threshold 0.01: Overall 995/1000 (99.5%)
+2025-07-23 19:52:15,496 - INFO - random_shrinking_1024 threshold 0.05: Overall 956/1000 (95.6%)
+2025-07-23 19:52:16,523 - INFO - random_shrinking_128 threshold 0.01: Overall 963/1000 (96.3%)
+2025-07-23 19:52:17,530 - INFO - random_shrinking_128 threshold 0.05: Overall 959/1000 (95.9%)
+2025-07-23 19:56:15,605 - INFO - random_shrinking_2048 threshold 0.01: Overall 993/1000 (99.3%)
+2025-07-23 20:00:13,410 - INFO - random_shrinking_2048 threshold 0.05: Overall 962/1000 (96.2%)
+2025-07-23 20:00:17,153 - INFO - random_shrinking_256 threshold 0.01: Overall 993/1000 (99.3%)
+2025-07-23 20:00:20,884 - INFO - random_shrinking_256 threshold 0.05: Overall 953/1000 (95.3%)
+2025-07-23 20:16:08,758 - INFO - random_shrinking_4096 threshold 0.01: Overall 993/1000 (99.3%)
+2025-07-23 20:31:53,562 - INFO - random_shrinking_4096 threshold 0.05: Overall 961/1000 (96.1%)
+2025-07-23 20:32:08,693 - INFO - random_shrinking_512 threshold 0.01: Overall 994/1000 (99.4%)
+2025-07-23 20:32:23,765 - INFO - random_shrinking_512 threshold 0.05: Overall 969/1000 (96.9%)
+2025-07-23 20:32:23,780 - INFO - Test aşaması tamamlandı! Toplam süre: 126.7 dakika
