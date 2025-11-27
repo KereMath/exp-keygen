@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Compiled
+*.dll
+*.so
+*.dylib
+!mt19937_wrapper.dll
+
+# Optional: Exclude large output (if regenerating)
+# output/
+# output1/
+
+# Temporary
+*.tmp
+*.bak
