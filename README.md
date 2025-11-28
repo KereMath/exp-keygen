@@ -2,7 +2,7 @@
 
 **Experimental code and data for statistical quality analysis of MT19937-based cryptographic key generation algorithms.**
 
-[![DOI](https://zenodo.org/badge/1024266296.svg)](https://doi.org/10.5281/zenodo.17751690)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17751787.svg)](https://doi.org/10.5281/zenodo.17751787)
 
 ## Overview
 
