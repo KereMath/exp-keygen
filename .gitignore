@@ -30,7 +30,8 @@ wheels/
 *~
 
 # Logs
-logs/*.log
+logs/
+*.log
 
 # OS
 .DS_Store
@@ -42,6 +43,9 @@ desktop.ini
 *.so
 *.dylib
 !mt19937_wrapper.dll
+
+# Claude Code
+.claude/
 
 # Optional: Exclude large output (if regenerating)
 # output/
