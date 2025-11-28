@@ -2,6 +2,8 @@
 
 **Experimental code and data for statistical quality analysis of MT19937-based cryptographic key generation algorithms.**
 
+[![DOI](https://zenodo.org/badge/1024266296.svg)](https://doi.org/10.5281/zenodo.17751690)
+
 ## Overview
 
 This repository contains the source code and experimental data for analyzing the statistical quality of cryptographic keys generated using **MT19937-based pseudorandom number generation** with three different generation methods.
